@@ -1,0 +1,1 @@
+checking every possible case for a string which you sets
