@@ -1,7 +1,7 @@
 <?php
 
 
-namespace stringCombination\schema;
+namespace vsl;
 
 interface stringCombinationInterface {
 

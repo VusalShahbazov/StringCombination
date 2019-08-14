@@ -1,0 +1,9 @@
+{
+    "name": "vsl/stringCombination",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"vsl\\":"src/"
+    	}
+    }
+}

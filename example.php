@@ -1,10 +1,10 @@
 <?php 
+require 'vendor/autoload.php';
 
-require './schema/stringCombinationInterface.php';
-require './library/stringCombination.php';
 
-$obj = new stringCombination\library\stringCombination();
+$obj = new vsl\stringCombination();
 while($resutl = $obj->resultString()) {
 	echo $resutl . PHP_EOL;
 }
+
 

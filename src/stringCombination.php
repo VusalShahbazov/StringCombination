@@ -1,8 +1,6 @@
 <?php
 
-namespace stringCombination\library;
-
-use stringCombination\schema\stringCombinationInterface;
+namespace vsl;
 
 
 class stringCombination implements stringCombinationInterface
@@ -10,8 +8,6 @@ class stringCombination implements stringCombinationInterface
 	protected $iterationNumber = 0;
 
 	protected $charsLenght = 10;
-
-// $this->charsLenght
 
 
 	protected $inputChars = [
