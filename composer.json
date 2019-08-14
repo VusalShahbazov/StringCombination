@@ -1,5 +1,5 @@
 {
-    "name": "vsl/stringCombination",
+    "name": "vsl/string-combination",
     "require": {},
     "autoload":{
     	"psr-4":{
